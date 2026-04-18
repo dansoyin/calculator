@@ -8,7 +8,11 @@ Supports basic arithmetic operations and continuous calculations.
 / Division
 Continue with previous result
 ▶️ Run
+```bash
 python cal.py
+```
 📌 Example
+```text
 5 + 3 = 8
+```
 → continue with 8
