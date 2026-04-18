@@ -7,6 +7,7 @@ Supports basic arithmetic operations and continuous calculations.
 * Multiplication
 / Division
 Continue with previous result
+
 ▶️ Run
 ```bash
 python cal.py
